@@ -61,4 +61,7 @@ ADMIN_2=second admin id</br>
 in case of any question, you contact with me in <a href="https://t.me/YOUDESOF">Telegram</a>.
 
 <h1>❤️ Final Word</h1>
+</br>
+<div style="text-align: right">
 خیلی دوست داشتیم به فعالیتمون ادامه بدیم، اما خب متاسفانه به دلیل مشغله های شخصی قادر به ادامه نبودیم. امیدوارم با انتشار سورس کد ربات تونسته باشم کمکی کرده باشم، به امید روزی های بهتر.
+</div>
