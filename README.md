@@ -58,7 +58,7 @@ ADMIN_2=second admin id</br>
 
 
 <h1>⁉ Questions</h1>
-in case of any question, you contact with me in <a href="https://t.me/YOUDESOF">Telegram</a>.
+in case of any question, you can contact with me in <a href="https://t.me/YOUDESOF">Telegram</a>.
 
 <h1>❤️ Final Word</h1>
 </br>
