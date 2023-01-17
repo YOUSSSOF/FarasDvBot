@@ -5,7 +5,8 @@
   FarasDvBot
 </h1>
 <p align="center">
+  <img alt="GitHub" src="https://img.shields.io/github/languages/code-size/YOUSSSOF/FarasDvBot?color=blueviolet">
   <img alt="GitHub" src="https://img.shields.io/github/last-commit/YOUSSSOF/FarasDVBot?color=blueviolet">
-
+  <img alt="GitHub" src="https://img.shields.io/github/languages/top/YOUSSSOF/FarasDvBot?color=blueviolet">
 </p>
 
