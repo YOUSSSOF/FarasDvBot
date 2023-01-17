@@ -1,0 +1,6 @@
+pytelegrambotapi
+python-dotenv
+apscheduler
+sqlalchemy
+passlib
+requests

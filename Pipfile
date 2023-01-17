@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pytelegrambotapi = "*"
+python-dotenv = "*"
+pyperclip = "*"
+schedule = "*"
+apscheduler = "*"
+fastapi = "*"
+uvicorn = "*"
+sqlalchemy = "*"
+passlib = "*"
+python-multipart = "*"
+bcrypt = "*"
+aiofiles = "*"
+python-jose = "*"
+requests = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
