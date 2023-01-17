@@ -9,4 +9,4 @@
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kalanakt/All-Url-Uploader?color=90e0ef&logoColor=ff4d6d&style=social">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kalanakt/All-Url-Uploader?logo=electron&logoColor=89fc00&style=social">
 </p>
-  [![Github Downloads (total)](https://img.shields.io/github/downloads/kotlin-graphics/kotlin-unsigned/total.svg)]
+(https://img.shields.io/github/downloads/kotlin-graphics/kotlin-unsigned/total.svg)]()
