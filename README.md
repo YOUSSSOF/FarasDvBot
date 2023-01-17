@@ -5,8 +5,7 @@
   FarasDvBot
 </h1>
 <p align="center">
-  <img alt="GitHub" src="https://img.shields.io/amo/rating/FarasDvBot?color=%23A020F0&style=social">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kalanakt/All-Url-Uploader?color=90e0ef&logoColor=ff4d6d&style=social">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kalanakt/All-Url-Uploader?logo=electron&logoColor=89fc00&style=social">
+  <img alt="GitHub" src="https://img.shields.io/github/last-commit/YOUSSSOF/FarasDVBot?color=blueviolet">
+
 </p>
 
