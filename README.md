@@ -48,10 +48,10 @@ quick note: nothing is changed in source code, images and username's are exact a
 
 * [x] create an .env file and fill it like ( bot supports two admins ):
 
-API=token
-CHANNEL=your channel id
-ADMIN_1=first admin id
-ADMIN_2=second admin id
+API=token</br>
+CHANNEL=your channel id</br>
+ADMIN_1=first admin id</br>
+ADMIN_2=second admin id</br>
 
 * [x] change template text's and id's as you want.
 * [x] run bot/main script.
