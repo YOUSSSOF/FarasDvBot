@@ -2,10 +2,8 @@
   width="128"
   height="128"
   style="float:left;">
-  &nbsp;
   FarasDvBot
 </h1>
-&nbsp;&nbsp;
 <p align="center">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/kalanakt/All-Url-Uploader?color=8eecf5&logo=anaconda&logoColor=06d6a0&style=social">
   <img alt="GitHub" src="https://img.shields.io/github/license/kalanakt/All-Url-Uploader?logo=adguard&logoColor=390099&style=social">
