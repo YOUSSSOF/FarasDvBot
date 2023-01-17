@@ -55,3 +55,10 @@ ADMIN_2=second admin id</br>
 
 * [x] change template text's and id's as you want.
 * [x] run bot/main script.
+
+
+<h1>⁉ Questions</h1>
+in case of any question, you contact with me in <a href="https://t.me/YOUDESOF">Telegram</a>.
+
+<h1>❤️ Final Word</h1>
+خیلی دوست داشتیم به فعالیتمون ادامه بدیم، اما خب متاسفانه به دلیل مشغله های شخصی قادر به ادامه نبودیم. امیدوارم با انتشار سورس کد ربات تونسته باشم کمکی کرده باشم، به امید روزی های بهتر.
