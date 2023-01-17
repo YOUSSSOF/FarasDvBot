@@ -2,5 +2,6 @@
   width="128"
   height="128"
   style="float:left;">
+  &nbsp;
   FarasDvBot
 </h1>
