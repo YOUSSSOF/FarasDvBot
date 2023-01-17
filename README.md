@@ -7,7 +7,6 @@
 </h1>
 </br>
 &nbsp;&nbsp;
-source code of the FarasDvBot :)
 <p align="center">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/kalanakt/All-Url-Uploader?color=8eecf5&logo=anaconda&logoColor=06d6a0&style=social">
   <img alt="GitHub" src="https://img.shields.io/github/license/kalanakt/All-Url-Uploader?logo=adguard&logoColor=390099&style=social">
