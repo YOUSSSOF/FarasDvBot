@@ -1,1 +1,0 @@
-https://api.telegram.org/bot5434937681:AAEA-pfcLiISoSkSp1Mdyg5NkeLsKS6Xdiw/setwebhook?url=https://grafootball.ir/home/grafootb/Bot/public/bot/main.py
