@@ -68,13 +68,13 @@ ADMIN_2=second admin id</br>
 
 these:
 
-🟢 V2ray: v2
-🟢 Argo Bridge: ab
-🟢 Argo Falcon: af
-🟢 ShadowSocks: ss
-🟢 Brook: b
-🟢 Outline: o
-🟢 Proxy: mp
+🟢 V2ray: v2</br>
+🟢 Argo Bridge: ab</br>
+🟢 Argo Falcon: af</br>
+🟢 ShadowSocks: ss</br>
+🟢 Brook: b</br>
+🟢 Outline: o</br>
+🟢 Proxy: mp</br>
 
 
 <h1>⁉ Questions</h1>
