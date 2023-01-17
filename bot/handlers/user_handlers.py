@@ -192,7 +192,7 @@ def post_send_server_handler(message: types.Message):
             connect_menu.add(types.InlineKeyboardButton(
                 "Connect", callback_data=('connect'), url=server))
             bot.send_message(
-                1129145429,
+                admin-id,
                 template.create_proxy_template(type, f' از طرف: <a href="t.me/{message.chat.username}">{message.chat.first_name}</a> ❤️'), reply_markup=connect_menu
             )
         else:
@@ -205,7 +205,7 @@ def post_send_server_handler(message: types.Message):
             send_menu.add(check_btn, ignore_btn)
 
             bot.send_message(
-                1129145429,
+                admin-id,
                 template.create_server_template(
                     type, f'<code>{server}</code>', f' از طرف: <a href="t.me/{message.chat.username}">{message.chat.first_name}</a> ❤️'),
                 disable_web_page_preview=True,
