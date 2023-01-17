@@ -5,7 +5,6 @@
   &nbsp;
   FarasDvBot
 </h1>
-</br>
 &nbsp;&nbsp;
 <p align="center">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/kalanakt/All-Url-Uploader?color=8eecf5&logo=anaconda&logoColor=06d6a0&style=social">
