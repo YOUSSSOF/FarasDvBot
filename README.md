@@ -16,13 +16,25 @@
 I don't know if you ever used the bot or not, but it blonged to FarasDvVpn channel. Basically bot was developed to make Iranian's life easier and help them to escape from the Goverment limitations 😁.
 
 <h4>I divide its features into 2 sections:</h4>
+
+<h5>👺 Admin sec:</h5>
 <ul>
-    <li>YouTube, Google Drive, Apple Music, Spotify, Resso, & direct Links support.</li>
-    <li>Bot can upload documents and files of video & audio types.</li>
-    <li>Deploy to Heroku | locally | VPS.</li>
-    <li>Custom thumbnail support.</li>
+    <li>Post a new vpn server into specific channel.</li>
+    <li>Post a new inform in shape of a template in your channel.</li>
+    <li>Message all of your bot subscribers ( their info save into db after /start ).</li>
+    <li>You can list them all.</li>
+    <li>Add/Remove sponsers in case you need one.</li>
 </ul>
+<h5>🙆‍♂️ User sec:</h5>
 <ul>
-  <li>/thumb - view your custom thumbunli</li>
-  <li>/delthumb - delete your custom thumbunli</li>
+  <li>Get the newest MTProto proxies.</li>
+  <li>Reccomand a vpn server to admins ( In case they accept, it automatically will post in channel ).</li>
+  <li>Contact with admis ( not chatbot fucntionallity, just reply with admin username ).</li>
+  <li>Get a free server with referral system: </li>
+  <ul>
+    <li>User can recieve his/her scores status.</li>
+    <li>User can recieve his/her indiviual invitation link.</li>
+    <li>In case of enough points, can recieve his/her prize.</li>
+    <li>If (he/she)'s super user, there's the feature to back to admin menu.</li>
+  </ul>
 </ul>
