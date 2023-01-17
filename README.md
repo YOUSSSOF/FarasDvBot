@@ -40,7 +40,7 @@ I divide its features into 2 sections 🤠:
   </ul>
 </ul>
 
-*tip: you can use referral system separately, its functionallity is isolated ( well not completly but its easy seprate it 😁). 
+*tip: you can use referral system separately, its functionallity is isolated ( well not completly but its easy to seprate it 😁). 
 
 
 <h1>📸 Shots</h1>
