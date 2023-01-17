@@ -38,3 +38,20 @@ I don't know if you ever used the bot or not, but it blonged to FarasDvVpn chann
     <li>If (he/she)'s super user, there's the feature to back to admin menu.</li>
   </ul>
 </ul>
+
+*tip: you can use referral system separately, its functionallity is isolated ( well not completly but its easy seprate it 😁). 
+
+
+<h1>🎯 To-Dos</h1>
+
+quick note: nothing is changed in source code, images and username's are exact as the real bot.
+
+* [x] create an .env file and fill it like ( bot supports two admins ):
+
+API=token
+CHANNEL=your channel id
+ADMIN_1=first admin id
+ADMIN_2=second admin id
+
+* [x] change template text's and id's as you want.
+* [x] run bot/main script.
