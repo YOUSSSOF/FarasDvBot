@@ -13,9 +13,9 @@
 </br>
 
 <h1>⛩ Introduction</h1>
-I don't know if you ever used the bot or not, but it blonged to FarasDvVpn channel. Basically bot was developed to make Iranian's life easier and help them to escape from the Goverment limitations 😁.
+I don't know if you ever used the bot or not, but it blonged to FarasDvVpn channel. Basically it was developed to help you escape from the limitations 😁.
 
-<h4>I divide its features into 2 sections:</h4>
+I divide its features into 2 sections 🤠:
 
 <h5>👺 Admin sec:</h5>
 <ul>
