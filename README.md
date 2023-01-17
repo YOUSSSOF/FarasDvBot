@@ -42,6 +42,9 @@ I divide its features into 2 sections 🤠:
 *tip: you can use referral system separately, its functionallity is isolated ( well not completly but its easy seprate it 😁). 
 
 
+<h1>📸 Shots</h1>
+| ![Screenshot_20230117_123344_ir ilmili telegraph](https://user-images.githubusercontent.com/93007857/212855902-7478de6a-d963-4039-918f-02bed26b4c3b.jpg) | ![Screenshot_20230117_123340_ir ilmili telegraph](https://user-images.githubusercontent.com/93007857/212855979-37ed8766-b6ec-4471-9312-c225bf67133f.jpg)
+
 <h1>🎯 To-Dos</h1>
 
 quick note: nothing is changed in source code, images and username's are exact as the real bot.
