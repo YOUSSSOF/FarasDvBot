@@ -13,9 +13,9 @@
 </br>
 
 <h1>⛩ Introduction</h1>
-I don't know if you ever used the bot or not, but it blonged to FarasDvVpn channel. Basically bot was developed to make Iranian's life easier and help them to escape from the Goverment limitations.
+I don't know if you ever used the bot or not, but it blonged to FarasDvVpn channel. Basically bot was developed to make Iranian's life easier and help them to escape from the Goverment limitations 😁.
 
-I divide its features into 2 sections:
+<h4>I divide its features into 2 sections:</h4>
 <ul>
     <li>YouTube, Google Drive, Apple Music, Spotify, Resso, & direct Links support.</li>
     <li>Bot can upload documents and files of video & audio types.</li>
